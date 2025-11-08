@@ -71,6 +71,12 @@ Use the **Main Menu** to control WARP:
 
 **Important:** Any operation requiring root privileges (like starting the service or connecting WARP) will trigger a password prompt managed by `pkexec`.
 
+## 📸 Screenshots
+
+| Language Selection | Main Menu | Menu Mode |
+| :---: | :---: | :---: |
+| ![Menu Language](https://i.imgur.com/UnvTrxn.png) | ![Main Menu](https://i.imgur.com/xEcarsG.png) | ![Menu Mode](https://i.imgur.com/9HFI6RA.png) |
+
 ## 🤝 Support and Contributions
 
 If you find this project useful, feel free to star the repo. Your support helps maintain and develop new features!
