@@ -35,16 +35,21 @@ Save the code above into a file named, for example, `warp-gui.sh`.
 Open your terminal and make the file executable:
 
 ```bash
-chmod +x warp-gui.sh
+chmod +x warp-gui-zenity.sh
 ```
 
 ### 3\. Run the Script
 
-Execute the script from your terminal:
+You have two ways to execute the script:
 
-```bash
-./warp-gui.sh
-```
+  * **A. Via Terminal (Recommended for Debugging):**
+    ```bash
+    ./warp-gui-zenity.sh
+    ```
+  * **B. Via Desktop Double-Click:**
+    1.  Navigate to the location of the `warp-gui-zenity.sh` file in your file manager (e.g., Nautilus, Dolphin, Thunar).
+    2.  **Double-click** the file.
+    3.  A dialog box should appear asking what you want to do. Choose **"Run"** or **"Execute"**. *(Note: This behavior may vary slightly depending on your specific Linux Desktop Environment, such as GNOME, KDE, XFCE, etc.)*
 
 ### 4\. Select Language
 
