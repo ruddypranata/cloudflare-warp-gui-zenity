@@ -1,5 +1,7 @@
 # 🌐 Cloudflare WARP GUI (Bash + Zenity)
 
+> This script was born out of personal experience and the desire for a simpler, more direct way to control Cloudflare WARP features on Linux. Dealing with complex command-line arguments and frequent pkexec prompts became tedious. This graphical interface aims to wrap the power of warp-cli into a user-friendly, single-click solution, making essential functions like mode switching and connection status immediate and effortless.
+
 This Bash script provides a simple and intuitive **Graphical User Interface (GUI)** for managing the Cloudflare WARP service on Linux systems, utilizing Zenity for dialog windows.
 
 ## ✨ Key Features
