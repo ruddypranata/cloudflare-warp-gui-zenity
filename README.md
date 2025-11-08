@@ -10,7 +10,6 @@ This Bash script provides a simple and intuitive **Graphical User Interface (GUI
   * **Service Management:** Start and Stop the underlying `warp-svc` system service.
   * **Status Check:** View the current WARP connection status.
 
------
 
 ## 🛠️ Prerequisites
 
@@ -20,8 +19,6 @@ Ensure you have the following components installed on your Linux system before r
 2.  **Zenity:** The tool used to create the GUI dialog boxes.
       * **Debian/Ubuntu:** `sudo apt install zenity`
 3.  **pkexec:** Used to safely execute administrative commands (`warp-cli` and `systemctl`) by prompting the user for their password.
-
------
 
 ## 🚀 How to Use
 
