@@ -70,3 +70,17 @@ Use the **Main Menu** to control WARP:
 | **Exit** | Closes the GUI and exits the script. | --- |
 
 **Important:** Any operation requiring root privileges (like starting the service or connecting WARP) will trigger a password prompt managed by `pkexec`.
+
+## 🤝 Support and Contributions
+
+If you find this project useful, feel free to **star** the repo. Your support helps maintain and develop new features!
+
+### 🌍 International Support (USD/PayPal/Card)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L01O3OW1)
+
+### 🇮🇩 Local Support (Rupiah/E-Wallet)
+
+Jika Anda berada di Indonesia dan ingin mendukung melalui QRIS / GoPay / OVO / DANA / Link Aja:
+
+[![Dukung via Saweria](https://img.shields.io/badge/Saweria-Donasi%20Rupiah-red?style=flat&logo=cashapp&logoColor=white)](https://saweria.co/ruddypranata)
