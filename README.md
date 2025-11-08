@@ -73,14 +73,9 @@ Use the **Main Menu** to control WARP:
 
 ## 🤝 Support and Contributions
 
-If you find this project useful, feel free to **star** the repo. Your support helps maintain and develop new features!
+If you find this project useful, feel free to star the repo. Your support helps maintain and develop new features!
 
-### 🌍 International Support (USD/PayPal/Card)
+[![Support Me on Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-29ABAE?style=for-the-badge&logo=kofi&logoColor=white&logoSize=auto)](https://ko-fi.com/L4L01O3OW1)&nbsp;&nbsp;&nbsp;[![Dukung via Saweria](https://img.shields.io/badge/Donasi%20Rupiah-Saweria-E05D44?style=for-the-badge&logo=cashapp&logoColor=white&logoSize=auto)](https://saweria.co/ruddypranata)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L01O3OW1)
 
-### 🇮🇩 Local Support (Rupiah/E-Wallet)
-
-Jika Anda berada di Indonesia dan ingin mendukung melalui QRIS / GoPay / OVO / DANA / Link Aja:
-
-[![Dukung via Saweria](https://img.shields.io/badge/Saweria-Donasi%20Rupiah-red?style=flat&logo=cashapp&logoColor=white)](https://saweria.co/ruddypranata)
+Jika Anda berada di Indonesia dan ingin mendukung melalui QRIS / GoPay / OVO / DANA / Link Aja, silakan gunakan opsi Saweria di atas.
