@@ -28,7 +28,7 @@ Follow these steps to download and run the updated script:
 
 ### 1\. Download the Script
 
-Save the code above into a file named, for example, `warp-gui.sh`.
+Save the code above into a file named, for example, `warp-gui-zenity.sh`.
 
 ### 2\. Grant Execution Permissions
 
